@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Computador",
+      "price": "50.000",
+      "id": 4
+    },
+    {
+      "name": "Teclado",
+      "price": "100",
+      "id": 5
+    },
+    {
+      "name": "Mouse",
+      "price": "30",
+      "id": 6
+    },
+    {
+      "name": "Cadeira",
+      "price": "200",
+      "id": 7
+    },
+    {
+      "name": "NoBreak",
+      "price": "400",
+      "id": 9
+    },
+    {
+      "name": "Mesa",
+      "price": "500",
+      "id": 10
+    }
+  ]
+}
